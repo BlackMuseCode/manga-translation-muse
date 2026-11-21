@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "saber_commit": "13491d83c0f0cb974ed62a6ba662d164f721f24e",
+  "engine_sha256": "00dfc485519c8ef4897aaf4ea060bd1a96d816131b857f12abc0dc65695a9211",
+  "models": {
+    "saber_yolo/saber_yolo.pt": {
+      "sha256": "a34bcb05eb3ca75941cfdaa59883edf19f6b209bcc9cc1fb139a2f5cf0bc6324",
+      "bytes": 56455253
+    },
+    "default/detect-20241225.ckpt": {
+      "sha256": "67ce1c4ed4793860f038c71189ba9630a7756f7683b1ee5afb69ca0687dc502e",
+      "bytes": 308380176
+    },
+    "ctd/comictextdetector.pt": {
+      "sha256": "1f90fa60aeeb1eb82e2ac1167a66bf139a8a61b8780acd351ead55268540cccb",
+      "bytes": 79948869
+    },
+    "lama-manga/lama-manga.safetensors": {
+      "sha256": "a790515e9da839b8d89af7d565ceb110d908b7d6fbdb991f2acb2ec7d9b08bdb",
+      "bytes": 204332996
+    }
+  },
+  "runtime_sha256": "9a3ba7cbf1df1582e3f9f90d10b93a33c129e54727f193726ccd6e976e966ef0",
+  "runtime_bytes": 840932744
+}

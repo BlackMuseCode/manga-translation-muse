@@ -1,0 +1,10 @@
+# Manga translation pipeline — Python >= 3.11
+# Install: python -m venv .venv && .venv/bin/python -m pip install -r requirements.txt
+Pillow>=11,<14
+numpy>=2,<3
+scipy>=1.14
+kaggle==2.2.4
+six==1.17.0
+# Optional: better font fallback in work/batch_render.py
+# (rendering.py warns and falls back to a simpler mechanism without it)
+freetype-py>=2.5

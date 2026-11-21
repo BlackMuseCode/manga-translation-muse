@@ -1,0 +1,1 @@
+{"accelerator":"NvidiaTeslaT4","engine_sha256":"FROM build_runtime.py OUTPUT","runtime_dataset":"YOUR-USERNAME/YOUR-RUNTIME-DATASET","runtime_sha256":"FROM publish-runtime OUTPUT","saber_commit":"13491d83c0f0cb974ed62a6ba662d164f721f24e","schema_version":1}
