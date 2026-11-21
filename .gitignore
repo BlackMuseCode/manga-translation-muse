@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Manga data, work outputs and credentials — never commit
+*.cbz
+*.zip
+models/
+.work/
+kaggle-job*/
+kaggle-job-retry/
+*.local.json
+.lama_api_config
+*_creds.json
+kaggle.txt
+kaggle.json
+rendered/
+crops/
+out/
+translations.json.partial
+failed-*.txt
